@@ -6,7 +6,7 @@ app = Flask(__name__)
 def home():
     return """
     <h1>Software Build Automation Tools Project</h1>
-    <p>Student: Olcay</p>
+    <p>Student: Olcayto Koruk</p>
     <p>This application is deployed using Azure Web App and GitHub Actions.</p>
     """
 
